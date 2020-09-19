@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">progtech2</string>
+    <string name="button_adduser">Add User</string>
+    <string name="AddUser">Add User</string>
+    <string name="adduser">Add User</string>
+    <string name="inName">Full Name</string>
+    <string name="inAddress">Address</string>
+    <string name="inAge">Age</string>
+    <string name="buttonAddUser">Add User</string>
+    <string name="toolbar">Data</string>
+    <string name="main">User Details</string>
+    <string name="LoadingDialog">Dialog</string>
+    <string name="Loading">loading</string>
+    <string name="blank">No Data</string>
+</resources>
